@@ -1,0 +1,27 @@
+{
+  "name": "slekup",
+  "version": "0.0.1",
+  "description": "Suite of generic tools used by Slekup.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "slekup": "./index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slekup/slekup-npm.git"
+  },
+  "keywords": [
+    "slekup"
+  ],
+  "author": "Slekup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slekup/slekup-npm/issues"
+  },
+  "homepage": "https://github.com/slekup/slekup-npm#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
